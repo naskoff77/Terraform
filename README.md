@@ -1,2 +1,2 @@
 # Terraform
-examples of Terraform code that I've written
+This repository's purpose is to showcase some of the basic Terraform modules I have written.
